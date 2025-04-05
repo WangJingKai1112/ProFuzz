@@ -4,7 +4,7 @@ ProFuzz is a program-level hardware fuzzing method for processor core verificati
 
 ### Workflow Overview
 
-[](.\\Figure\\ProFuzz.png)
+![](./Figure/ProFuzz.png)
 
 ### Directory Structure Description
 
